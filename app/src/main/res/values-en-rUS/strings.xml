@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internationalizing My App</string>
+    <string name="msg_app">Today is a beautiful day.</string>
+    <string name="msg_reception">Welcome</string>
+</resources>
